@@ -1,0 +1,14 @@
+{
+  "published_at": "2026-10-23T22:48:55.9995996Z",
+  "tag_name": "mod-destiny-combat-0.1.0-ef20.14.17",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+    {
+      "name": "destiny-combat-0.1.0-ef20.14.17.jar",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-combat-0.1.0-ef20.14.17/destiny-combat-0.1.0-ef20.14.17.jar",
+      "size": 3555604,
+      "digest": "sha256:fcac8a39d9c347254f55a85c270ec398b1ce1800638c7ab0d5bb0cf76adcefe1"
+    }
+  ]
+}

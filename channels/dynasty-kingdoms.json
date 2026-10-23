@@ -1,0 +1,14 @@
+{
+  "published_at": "2026-10-23T22:49:38.3992084Z",
+  "tag_name": "mod-dynasty-kingdoms-0.3.0-studio.20",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+    {
+      "name": "dynasty-kingdoms-0.3.0-studio.20.jar",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-dynasty-kingdoms-0.3.0-studio.20/dynasty-kingdoms-0.3.0-studio.20.jar",
+      "size": 52181728,
+      "digest": "sha256:e47eb1d8bd0436701029b5b280cb6b98f15cc071952b42351772a1edca6fe4ca"
+    }
+  ]
+}

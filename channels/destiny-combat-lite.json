@@ -1,0 +1,14 @@
+{
+  "published_at": "2026-10-23T22:49:06.6092818Z",
+  "tag_name": "mod-destiny-combat-lite-0.1.0-ef20.14.17",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+    {
+      "name": "destiny-combat-lite-0.1.0-ef20.14.17.jar",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-combat-lite-0.1.0-ef20.14.17/destiny-combat-lite-0.1.0-ef20.14.17.jar",
+      "size": 3603379,
+      "digest": "sha256:337cc191b282bb4acf052e97bcf82c4b3496dd24a89b8a383162c2559310e898"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+name: Update mod channel
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Published tag, e.g. mod-destiny-realms-0.1.1'
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: mod-release-channels
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Verify release and update only its channel
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name || inputs.release_tag }}
+        run: ./tools/Sync-ModChannel.ps1 -ReleaseTag $env:RELEASE_TAG

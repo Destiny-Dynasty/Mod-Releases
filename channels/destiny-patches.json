@@ -1,0 +1,14 @@
+{
+  "published_at": "2026-10-23T22:50:14.9283324Z",
+  "tag_name": "mod-destiny-patches-0.1.0",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+    {
+      "name": "destiny-patches-0.1.0.jar",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-patches-0.1.0/destiny-patches-0.1.0.jar",
+      "size": 22179,
+      "digest": "sha256:cb550b2b16ae9798d475ca50e1136c904c8e121c16495a080d121bdc5d2287d1"
+    }
+  ]
+}

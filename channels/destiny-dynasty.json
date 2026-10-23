@@ -1,0 +1,14 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "mod-destiny-dynasty-0.1.1",
+  "published_at": "2026-10-23T23:46:58Z",
+  "assets": [
+    {
+      "name": "destiny-dynasty-0.1.1.jar",
+      "size": 24179474,
+      "digest": "sha256:ed6303391b50bdbe6841e82987a773516438d5cd047f05a0c7e758b97da49dba",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-dynasty-0.1.1/destiny-dynasty-0.1.1.jar"
+    }
+  ]
+}

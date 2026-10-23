@@ -9,13 +9,13 @@ credenciales, worlds ni configuraciones privadas del servidor.
 Desde un checkout limpio y actualizado de este repositorio, PowerShell 7 y GitHub CLI:
 
 ```powershell
-./tools/Publish-ModRelease.ps1 -RepositoryRoot . -ModId destiny-realms `
+./tools/Publish-ModRelease.ps1 -RepositoryRoot . -ModId destiny-dynasty `
   -Version 0.1.1 -JarPath 'E:/destiny-realms/build/libs/destinydynasty-0.1.1.jar'
 ```
 
 El ejemplo no representa una versión ya publicada. El script crea una release
-`mod-destiny-realms-0.1.1`, publica un solo JAR y, tras verificar su SHA-256 y tamaño,
-actualiza `channels/destiny-realms.json`. Nunca reemplaza una build publicada.
+`mod-destiny-dynasty-0.1.1`, publica un solo JAR y, tras verificar su SHA-256 y tamaño,
+actualiza `channels/destiny-dynasty.json`. Nunca reemplaza una build publicada.
 
 También se puede crear la release desde GitHub, con tag `mod-<id>-<versión>` y
 un único JAR de producción llamado `<id>-<versión>.jar`. El workflow
@@ -33,12 +33,12 @@ En una definición de variante del repositorio Modpack:
 
 ```json
 {
-  "path": "mods/destiny-realms.jar",
+  "path": "mods/destiny-dynasty.jar",
   "github": {
     "repository": "Destiny-Dynasty/Mod-Releases",
     "release": "latest",
-    "channel": "destiny-realms",
-    "asset": "destiny-realms-*.jar"
+    "channel": "destiny-dynasty",
+    "asset": "destiny-dynasty-*.jar"
   }
 }
 ```
@@ -61,5 +61,5 @@ dependencias. Usar otro canal al mantener una línea incompatible. Los archivos
 mantienen sus licencias y avisos originales. La licencia MIT de este repositorio
 cubre las herramientas de publicación, no concede una licencia nueva a los JAR.
 
-La primera build de Realms se importa del pack existente; no representa una
+La primera build de Destiny Dynasty se importa del pack existente; no representa una
 compilación nueva del HEAD privado.

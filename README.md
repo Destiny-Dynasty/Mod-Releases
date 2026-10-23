@@ -17,6 +17,13 @@ El ejemplo no representa una versión ya publicada. El script crea una release
 `mod-destiny-realms-0.1.1`, publica un solo JAR y, tras verificar su SHA-256 y tamaño,
 actualiza `channels/destiny-realms.json`. Nunca reemplaza una build publicada.
 
+También se puede crear la release desde GitHub, con tag `mod-<id>-<versión>` y
+un único JAR de producción llamado `<id>-<versión>.jar`. El workflow
+`Update mod channel` verifica el asset y actualiza el canal automáticamente al
+publicar una release estable. Drafts y pre-releases no cambian canales estables.
+La versión del mod debe tener tres números, por ejemplo `0.1.1` o `0.3.0-studio.21`.
+La sincronización también puede repetirse manualmente desde Actions; es idempotente.
+
 Cada mod tiene su propio canal; no debe utilizarse `/releases/latest` de este
 repositorio compartido para actualizar un mod individual.
 

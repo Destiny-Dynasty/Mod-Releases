@@ -2,7 +2,7 @@
 param(
     [Parameter(Mandatory)][string]$RepositoryRoot,
     [Parameter(Mandatory)][ValidatePattern('^[a-z0-9][a-z0-9-]{0,63}$')][string]$ModId,
-    [Parameter(Mandatory)][ValidatePattern('^[0-9A-Za-z][0-9A-Za-z.+_-]{0,99}$')][string]$Version,
+    [Parameter(Mandatory)][ValidatePattern('^\d+\.\d+\.\d+[0-9A-Za-z.+_-]*$')][string]$Version,
     [Parameter(Mandatory)][string]$JarPath
 )
 $ErrorActionPreference='Stop'

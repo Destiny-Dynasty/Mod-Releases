@@ -1,0 +1,14 @@
+{
+  "published_at": "2026-10-23T22:48:43.7081426Z",
+  "tag_name": "mod-destiny-realms-0.1.0",
+  "prerelease": false,
+  "draft": false,
+  "assets": [
+    {
+      "name": "destiny-realms-0.1.0.jar",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-realms-0.1.0/destiny-realms-0.1.0.jar",
+      "size": 20174647,
+      "digest": "sha256:1878d5a67e9e6564793589f254090a54147cd83be474f3745944f17128214d5b"
+    }
+  ]
+}

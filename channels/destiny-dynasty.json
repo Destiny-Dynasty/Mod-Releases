@@ -1,14 +1,14 @@
 {
   "draft": false,
   "prerelease": false,
-  "tag_name": "mod-destiny-dynasty-0.6.4",
-  "published_at": "2026-10-29T00:19:08Z",
+  "tag_name": "mod-destiny-dynasty-0.7.0",
+  "published_at": "2026-10-29T23:19:25Z",
   "assets": [
     {
-      "name": "destiny-dynasty-0.6.4.jar",
-      "size": 26456370,
-      "digest": "sha256:dce6bd470991461eb9ac46a8c333c8eb18806c89889eb883c9047425e3deae0f",
-      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-dynasty-0.6.4/destiny-dynasty-0.6.4.jar"
+      "name": "destiny-dynasty-0.7.0.jar",
+      "size": 26801466,
+      "digest": "sha256:df699b9f1a7702471e0b361f6baaa8a7fc2b40d4b7780eca83a397c1aa475b6e",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-dynasty-0.7.0/destiny-dynasty-0.7.0.jar"
     }
   ]
 }

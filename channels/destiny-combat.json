@@ -1,14 +1,14 @@
 {
   "draft": false,
   "prerelease": false,
-  "tag_name": "mod-destiny-combat-0.2.3-ef20.14.17",
-  "published_at": "2026-10-31T12:37:32Z",
+  "tag_name": "mod-destiny-combat-0.2.4-ef20.14.17",
+  "published_at": "2026-11-03T16:10:28Z",
   "assets": [
     {
-      "name": "destiny-combat-0.2.3-ef20.14.17.jar",
-      "size": 3629671,
-      "digest": "sha256:99323776259b6dc78a950484f904c4d02d23e5d27015f1979a654d75c2aadfa0",
-      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-combat-0.2.3-ef20.14.17/destiny-combat-0.2.3-ef20.14.17.jar"
+      "name": "destiny-combat-0.2.4-ef20.14.17.jar",
+      "size": 3631663,
+      "digest": "sha256:dcc0603fdf7540563fddc41a43b79e9a39f6e4840b9b8d06dbf294abe4639a3e",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-combat-0.2.4-ef20.14.17/destiny-combat-0.2.4-ef20.14.17.jar"
     }
   ]
 }

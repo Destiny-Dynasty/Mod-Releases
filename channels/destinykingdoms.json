@@ -1,0 +1,14 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "mod-destinykingdoms-0.3.0-studio.27",
+  "published_at": "2026-11-05T13:49:34Z",
+  "assets": [
+    {
+      "name": "destinykingdoms-0.3.0-studio.27.jar",
+      "size": 65610672,
+      "digest": "sha256:5634e85b4f9f3755bddec8aeff6cb8303d7fb57e265ac5f19facce5962e1f540",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destinykingdoms-0.3.0-studio.27/destinykingdoms-0.3.0-studio.27.jar"
+    }
+  ]
+}

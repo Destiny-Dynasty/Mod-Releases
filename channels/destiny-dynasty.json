@@ -1,14 +1,14 @@
 {
   "draft": false,
   "prerelease": false,
-  "tag_name": "mod-destiny-dynasty-0.19.2",
-  "published_at": "2026-11-07T22:43:45Z",
+  "tag_name": "mod-destiny-dynasty-0.19.3",
+  "published_at": "2026-11-07T23:47:46Z",
   "assets": [
     {
-      "name": "destiny-dynasty-0.19.2.jar",
-      "size": 28975669,
-      "digest": "sha256:e80501a48487ed3c749f574ee13763336a000d2f99bbb60c065063ccff7d2c86",
-      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-dynasty-0.19.2/destiny-dynasty-0.19.2.jar"
+      "name": "destiny-dynasty-0.19.3.jar",
+      "size": 29006834,
+      "digest": "sha256:d2be223b55fa32a86349468aa62a03e3c65e24bb8f9468016c8ccf5fc033ebf0",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destiny-dynasty-0.19.3/destiny-dynasty-0.19.3.jar"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "draft": false,
   "prerelease": false,
-  "tag_name": "mod-create-bits-n-bobs-0.0.41-fabric.2",
-  "published_at": "2026-11-23T09:15:56Z",
+  "tag_name": "mod-create-bits-n-bobs-0.0.41-fabric.3",
+  "published_at": "2026-11-23T11:09:26Z",
   "assets": [
     {
-      "name": "create-bits-n-bobs-0.0.41-fabric.2.jar",
-      "size": 1584794,
-      "digest": "sha256:fb79b9d37cab398f766402615c59305a673f83b689724b69288087ca99e06583",
-      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-create-bits-n-bobs-0.0.41-fabric.2/create-bits-n-bobs-0.0.41-fabric.2.jar"
+      "name": "create-bits-n-bobs-0.0.41-fabric.3.jar",
+      "size": 1584741,
+      "digest": "sha256:5bc4b449f4b72f484e70851b519f1db8321c738bc9dcbf68881c2c7b3db7ab6b",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-create-bits-n-bobs-0.0.41-fabric.3/create-bits-n-bobs-0.0.41-fabric.3.jar"
     }
   ]
 }

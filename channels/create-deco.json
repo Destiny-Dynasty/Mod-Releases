@@ -1,0 +1,14 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "mod-create-deco-2.1.1+destiny.1",
+  "published_at": "2026-11-23T11:05:10Z",
+  "assets": [
+    {
+      "name": "create-deco-2.1.1-destiny.1.jar",
+      "size": 970652,
+      "digest": "sha256:f9d480d6576ec2398d4676261548474a444662f4b1323c276bbed35071e6565d",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-create-deco-2.1.1%2Bdestiny.1/create-deco-2.1.1-destiny.1.jar"
+    }
+  ]
+}

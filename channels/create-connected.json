@@ -1,0 +1,14 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "mod-create-connected-1.2.3",
+  "published_at": "2026-11-23T07:06:58Z",
+  "assets": [
+    {
+      "name": "create-connected-1.2.3.jar",
+      "size": 6381397,
+      "digest": "sha256:b7aa717cd78f11dc356d43183d5ca7e05d5e42a55c763c07c0284ecc6caf0ce4",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-create-connected-1.2.3/create-connected-1.2.3.jar"
+    }
+  ]
+}

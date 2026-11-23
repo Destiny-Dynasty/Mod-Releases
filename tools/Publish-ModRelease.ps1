@@ -58,7 +58,8 @@ if ($release.draft) {
 $release = & gh api $releaseInfo.apiUrl | ConvertFrom-Json
 if ($LASTEXITCODE -or $release.draft) { throw 'Could not verify the public mod release.' }
 $asset=@($release.assets | Where-Object {$_.name -eq $assetName -and $_.digest -eq "sha256:$hash" -and $_.size -eq $jar.Length})
-if ($asset.Count -ne 1 -or $asset[0].browser_download_url -notlike "https://github.com/$repository/releases/download/$tag/*") { throw 'Public release asset verification failed.' }
+$downloadTag = [uri]::EscapeDataString($tag)
+if ($asset.Count -ne 1 -or $asset[0].browser_download_url -notlike "https://github.com/$repository/releases/download/$downloadTag/*") { throw 'Public release asset verification failed.' }
 # Idempotent API updates coexist safely with the release-published workflow.
 & (Join-Path $PSScriptRoot 'Sync-ModChannel.ps1') -ReleaseTag $tag -Repository $repository
 & git -C $repo pull --ff-only origin main

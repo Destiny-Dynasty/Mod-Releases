@@ -1,0 +1,14 @@
+{
+  "draft": false,
+  "prerelease": false,
+  "tag_name": "mod-cinematic-interactions-0.18.28-destiny-aw.1",
+  "published_at": "2026-11-25T05:09:09Z",
+  "assets": [
+    {
+      "name": "cinematic-interactions-0.18.28-destiny-aw.1.jar",
+      "size": 1209400,
+      "digest": "sha256:379ee14a6ec65f43adc40fc26ccd4cee9407541f110b8713e3b72983de236a31",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-cinematic-interactions-0.18.28-destiny-aw.1/cinematic-interactions-0.18.28-destiny-aw.1.jar"
+    }
+  ]
+}

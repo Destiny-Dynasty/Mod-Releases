@@ -1,14 +1,14 @@
 {
   "draft": false,
   "prerelease": false,
-  "tag_name": "mod-destinycraft-1.0.0",
-  "published_at": "2026-11-23T07:41:47Z",
+  "tag_name": "mod-destinycraft-1.0.1",
+  "published_at": "2026-11-25T04:47:35Z",
   "assets": [
     {
-      "name": "destinycraft-1.0.0.jar",
-      "size": 57268,
-      "digest": "sha256:c92a6d43ce86c2a852af8ab976ec6857142475f4f7dff9b2fe3f19ee359c644f",
-      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destinycraft-1.0.0/destinycraft-1.0.0.jar"
+      "name": "destinycraft-1.0.1.jar",
+      "size": 215239,
+      "digest": "sha256:692dac0089b7dd8ff2e483b285b56998e54d29260e24551173f6ab7082626977",
+      "browser_download_url": "https://github.com/Destiny-Dynasty/Mod-Releases/releases/download/mod-destinycraft-1.0.1/destinycraft-1.0.1.jar"
     }
   ]
 }
